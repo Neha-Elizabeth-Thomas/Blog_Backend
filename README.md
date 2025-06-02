@@ -16,20 +16,6 @@ It provides RESTful endpoints for creating and retrieving blog posts.
 
 ---
 
-## 📁 Folder Structure
-
-```
-
-backend/
-├── models/
-│   └── Blog.js
-├── app.js
-├── .env
-└── package.json
-
-````
-
----
 
 ## ⚙️ Setup Instructions
 
@@ -138,5 +124,4 @@ Built by [Neha Elizabeth Thomas](https://github.com/Neha-Elizabeth-Thomas) – f
 
 ---
 
-Let me know if you want a combined `README.md` for both frontend and backend, or want to add Swagger/OpenAPI docs, too.
 ```
